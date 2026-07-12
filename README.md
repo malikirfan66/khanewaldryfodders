@@ -45,6 +45,7 @@ This project is a responsive landing page designed to present the company's serv
 ├── js/
 ├── images/
 ├── fonts/
+├── secreenshort/homepage.png
 ├── index.html
 └── README.md
 ```
